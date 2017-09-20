@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Alt om HTML tabeller! :-) Se mig! Click here</title>
+</head>
+
+<body>
+<table width="1000" border="1" cellpadding="20">
+  <caption>
+    The animal table
+  </caption>
+  <tbody>
+    
+      <th scope="colgroup" colspan="3">Predatory animals</th>
+    
+     <tr></tr>
+      <td><strong>Name</strong></td>
+      <td><strong>Email</strong></td>
+    	<td><strong>Image</strong></td>
+    
+    <tr></tr>
+      <td>Brown Bear</td>
+      <td>Ursus arctos</td>
+	  <td><strong>Image</strong></td>
+	  
+	  <tr></tr>
+     <td> Badger</td>
+     <td>Meles meles</td>
+    <td><strong>Image</strong></td>
+    
+    <tr></tr>
+    <td> Fox</td>
+   	<td> Vulpes Vulpes</td>
+    <td><strong>Image</strong></td>
+    
+    <tr></tr>
+    <td> Sand cat</td>
+   	<td> Felis magaritta</td>
+   	<td><strong>Image</strong></td>
+   	
+   	<tr></tr>
+    <td> Wild cat</td>
+   	<td> Felis silvestris</td>
+   	<td><strong>Image</strong></td>
+   	
+   	<tr></tr>
+    <td> Wolf</td>
+   	<td> Canis Lupus</td>
+   	<td><strong>Image</strong></td>
+   	
+   	<tr></tr>
+    <td> All pictures from: http://www.naturephoto-cz.com/mammals/predatory-animals.html</td>
+   	
+    
+    
+   
+    
+    
+  </tbody>
+</table>
+
+</body>
+</html>
